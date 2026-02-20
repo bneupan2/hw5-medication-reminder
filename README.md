@@ -1,16 +1,46 @@
-# hw5_med_reminder
+💊HW5 – Medication Reminder + Log
 
-A new Flutter project.
+A Flutter mobile application that allows users to manage medications, set reminder times, and log when medications are taken.
 
-## Getting Started
+📱 Features
+✅ Medication Management
 
-This project is a starting point for a Flutter application.
+Add new medications
 
-A few resources to get you started if this is your first Flutter project:
+Edit existing medications
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Delete medications
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Set dosage and frequency
+
+Choose reminder time
+
+Activate/Deactivate medications
+
+✅ Intake Logging
+
+Mark medication as taken
+
+Automatically logs date & time
+
+View full medication history
+
+Clear history if needed
+
+✅ User Interface
+
+Multi-screen navigation
+
+Clean Material 3 design
+
+Empty-state messages
+
+Swipe-to-delete support
+
+Validation for required fields
+
+✅ Data Persistence
+
+Uses shared_preferences
+
+Data remains saved after app restart
